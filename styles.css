@@ -1,7 +1,7 @@
-/*  your css code here. If applicable */
-.highlight1{
-	font color:blue;
-	background color:;
-	font-family:Arial;
+p.highlight1{
+font color:#00f;
+	background color:#eee;
+	 font-family:Arial;
+	font size:20px;
 	
 }
